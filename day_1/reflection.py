@@ -1,0 +1,1 @@
+print("Descript a daily task:\n 1. Task: study\n 2. Step 1: sit in the chair in front of the computer\n 3. Step 2: turn on the computer\n 3. Step 3: open the code editor\n 4. Step 4: open the browser\n 5. Step 5: select the material to be studied\n 6. Step 6: start studying")

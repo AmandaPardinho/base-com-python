@@ -1,0 +1,1 @@
+print("Hello world! Starting day 1 of the 21-day python logic program!")
